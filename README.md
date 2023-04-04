@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [NewsFlash Project](https://github.com/OferM0/NewsFlashProject)
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Blazor**
 
 - 💬 Ask me about **React**
 
