@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oferm0&label=Profile%20views&color=0e75b6&style=flat" alt="oferm0" /> </p>
 
-- 🔭 I’m currently working on [NewsFlash Project](https://github.com/OferM0/NewsFlashProject)
+- 🔭 I’m currently working on [ResultViewer Project](https://github.com/FadiFarah/ResultViewer)
 
 - 🌱 I’m currently learning **Blazor**
 
